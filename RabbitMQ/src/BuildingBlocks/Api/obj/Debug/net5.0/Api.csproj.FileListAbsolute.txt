@@ -1,0 +1,88 @@
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.deps.json
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\ref\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Domain.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Domain.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.CopyComplete
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\ref\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.deps.json
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\ref\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Domain.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Domain.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.CopyComplete
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\ref\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Logic.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Logic.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.deps.json
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\ref\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Domain.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Logic.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Domain.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\bin\Debug\net5.0\Logic.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.CopyComplete
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\ref\Api.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack DotNet\Lab 5\KWops\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.pdb
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.deps.json
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\bin\Debug\net5.0\ref\Api.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\bin\Debug\net5.0\Api.pdb
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\bin\Debug\net5.0\Domain.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\bin\Debug\net5.0\Logic.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\bin\Debug\net5.0\Domain.pdb
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\bin\Debug\net5.0\Logic.pdb
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.csproj.CopyComplete
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\ref\Api.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Api\obj\Debug\net5.0\Api.pdb

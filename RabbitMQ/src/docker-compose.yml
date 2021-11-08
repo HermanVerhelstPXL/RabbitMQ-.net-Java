@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  test.api:
+    image: ${DOCKER_REGISTRY-}testapi
+    build:
+      context: .
+      dockerfile: Services/Test/Test.API/Dockerfile
+  rabbitmq:
+    image: rabbitmq:3-management-alpine

@@ -1,0 +1,40 @@
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 2\KWops\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 2\KWops\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 2\KWops\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 2\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 2\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 2\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 2\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 2\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 2\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 2\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.csproj.AssemblyReference.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.csproj.AssemblyReference.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 3\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.csproj.AssemblyReference.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.csproj.AssemblyReference.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Domain\obj\Debug\netstandard2.1\Domain.pdb

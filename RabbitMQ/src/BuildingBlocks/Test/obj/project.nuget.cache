@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/ty8jkaTfdpgMKC5wTFKL9V8O1APga+z+3YzzrfMCj+LrrX2eD6AzTN2bGoBkv6xJhaflbcPN4yZ5g85SZ7CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11900543\\Documents\\Toegepaste Informatica\\3TIN\\Fullstack DotNet\\Lab 5\\KWops\\src\\BuildingBlocks\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11900543\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\11900543\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

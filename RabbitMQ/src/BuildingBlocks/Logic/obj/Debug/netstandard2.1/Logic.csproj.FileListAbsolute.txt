@@ -1,0 +1,20 @@
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Logic\bin\Debug\netstandard2.1\Logic.deps.json
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Logic\bin\Debug\netstandard2.1\Logic.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Logic\bin\Debug\netstandard2.1\Logic.pdb
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.csproj.AssemblyReference.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.AssemblyInfoInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.AssemblyInfo.cs
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.dll
+C:\Users\11900543\Documents\Toegepaste Informatica\3TIN\Fullstack .NET\Lab 4\KWops\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.pdb
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Logic\bin\Debug\netstandard2.1\Logic.deps.json
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Logic\bin\Debug\netstandard2.1\Logic.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Logic\bin\Debug\netstandard2.1\Logic.pdb
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.csproj.AssemblyReference.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.AssemblyInfoInputs.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.AssemblyInfo.cs
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.dll
+C:\Users\herma\Documents\Toegepaste Informatica\3TIN\Fullstack Java\Backend\h3_SpringCloud_messaging\RabbitMQ\src\BuildingBlocks\Logic\obj\Debug\netstandard2.1\Logic.pdb
